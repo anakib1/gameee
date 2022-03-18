@@ -1,0 +1,1 @@
+The modue main has the whole game cycle. It uses module game.py where main classes are implemented.
